@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Inter:wght@400;700;800&family=Lexend+Deca&family=Oswald:wght@200&family=Roboto:wght@300;400;700&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 40px;
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+img{
+  margin-top: 50px;
+  width: 600px;
+}
+.verde{
+  background-color: greenyellow;
+}
+
+.laranja{
+  width: 100vw;
+  height: 150px;
+  background-color: orange;
+}
+.simone{
+  color: green;
+}
+
+.primeira{
+  color: red;
+}
+.segunda{
+  color: blue;
+}
+.terceira{
+  color: orange;
+}
